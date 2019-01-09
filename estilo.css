@@ -1,5 +1,5 @@
 h1{
-    color:red;
+    color:turquoise;
 }
 
 p{
@@ -8,4 +8,8 @@ p{
 }
 h3{
     color: blue;
+}
+
+p{
+    font-size: 90px;
 }
